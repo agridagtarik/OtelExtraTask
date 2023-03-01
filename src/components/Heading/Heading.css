@@ -1,0 +1,13 @@
+.heading {
+  background-color: rgb(237, 237, 237);
+  height: 10%;
+  color: #a8afba;
+  display: flex;
+  align-items: flex-end;
+}
+.headingText {
+  padding-left: 20px;
+  padding-bottom: 10px;
+  font-weight: bold;
+  font-size: 25px;
+}

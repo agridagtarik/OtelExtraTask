@@ -1,0 +1,18 @@
+.Navbar {
+  background-color: #f7f7f7;
+  height: 10%;
+}
+.searchBarGroup {
+  width: 40%;
+  height: 40px;
+  align-self: center;
+}
+.searchBarBtn {
+  color: white;
+  background-color: #7e96b3 !important;
+  border: none;
+  width: 50px;
+}
+img {
+  width: 100%;
+}

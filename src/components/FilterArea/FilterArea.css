@@ -1,0 +1,20 @@
+.filterArea {
+  height: 40%;
+}
+.detail {
+  height: 20%;
+}
+.filter {
+  height: 80%;
+}
+.form-label {
+  color: #7e96b3;
+}
+.form-select {
+  width: 75%;
+}
+.date {
+  width: 120px;
+  border-radius: 0;
+  margin: 0.25rem;
+}
